@@ -17,7 +17,7 @@ export class FiguraCirculoComponent implements OnInit {
   resultado: string = '';
 
   constructor() {}
-//wea
+
   ngOnInit() {}
 
   calcularPerimetro() {
